@@ -16,7 +16,7 @@
   </div>
 <hr> 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap:50px;">
+<div style="display: flex; flex-wrap: wrap; justify-content:space-between;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="bootstrap1.png" alt="bootstrap" width="40" height="40" style="background-color: blue;"/>
   </a>
