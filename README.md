@@ -1,4 +1,4 @@
-<img src='Coder solution.png'>
+<img src='profile.jpg'>
 <h1 align="center">Hi 👋, I'm Shahrukh Hussain</h1>
 <h3 align="center">My passion for web development started from my hunger to make things.</h3>
 <hr> 
