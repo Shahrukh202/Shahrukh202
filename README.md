@@ -4,7 +4,7 @@
 </h1>
 <p align="left">My passion for web development started from my hunger to make things.🚀</p>
 
-
+<br>
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/sharukhjayker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharukhjayker" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 <h3 align="left">💻 Tech Stack</h3>
 
-I have experience with the following technologies and tools:
+I have experience with the following technologies:
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Express.js, MongoDB.
@@ -28,6 +28,6 @@ I have experience with the following technologies and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,nodejs,mongodb,wordpress,npm,figma,github,vscode)](https://skillicons.dev)
 
 #
-<hr> 
+
 
 <h4 align="center">Thanks for visiting! Let's connect and collaborate on some exciting projects!</h4>
