@@ -18,6 +18,7 @@
   </div>
 <hr> 
 <h3 align="left">🧰 Languages and Tools</h3>
+###
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
-
+#
 <h4 align="center">Thanks for visiting! Let's connect and collaborate on some exciting projects!</h4>
