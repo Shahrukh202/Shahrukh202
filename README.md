@@ -1,8 +1,8 @@
 <img src='linkedin banner.png'>
-<h1 align="left">Hi 👋 I'm Shahrukh Hussain
+<h1 align="center">Hi 👋 I'm Shahrukh Hussain
 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
-<p align="left">My passion for web development started from my hunger to make things.🚀</p>
+<p align="center">My passion for web development started from my hunger to make things.🚀</p>
 <br>
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
