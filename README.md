@@ -1,11 +1,11 @@
 <img src='linkedin banner.png'>
-<h1 align="center">Hi 👋 I'm Shahrukh Hussain
+<h1 align="left">Hi 👋 I'm Shahrukh Hussain
 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
-<h3 align="center">My passion for web development started from my hunger to make things.🚀</h3>
-<hr> 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
+<h3 align="left">My passion for web development started from my hunger to make things.🚀</h3>
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
 <a href="https://twitter.com/sharukhjayker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharukhjayker" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shahrukh-hussain-5831001b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahrukh-hussain-5831001b1" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005110628468&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005110628468&mibextid=zbwkwl" height="30" width="40" /></a>
