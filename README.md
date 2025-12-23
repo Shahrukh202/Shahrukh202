@@ -20,7 +20,7 @@
 <h3 align="center">🧰 Languages and Tools</h3>
 <!-- ###  -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,nodejs,mongodb,wordpress,npm,figma,github,vscode)](https://skillicons.dev)
 
 #
 <hr> 
