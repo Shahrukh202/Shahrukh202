@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋 I'm Shahrukh Hussain
 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
-<h3 align="center">My passion for web development started from my hunger to make things.</h3>
+<h3 align="center">My passion for web development started from my hunger to make things.🚀</h3>
 <hr> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/sharukhjayker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharukhjayker" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shahrukh-hussain-5831001b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahrukh-hussain-5831001b1" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005110628468&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005110628468&mibextid=zbwkwl" height="30" width="40" /></a>
@@ -44,3 +44,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </div>
+### 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
+
+#
+<h4 align="center">Thanks for visiting! Let's connect and collaborate on some exciting projects!</h4>
